@@ -3,7 +3,7 @@
 <h1 align="center">I'm Nikhil Malkari</h1>
 <h3 align="center">Data Scientist / Machine Learning Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [nikhilmalkari.github.io](nikhilmalkari8.github.io)
+- 👨‍💻 All of my projects are available at [nikhilmalkari8.github.io](nikhilmalkari8.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@nikhilmalkari18](https://medium.com/@nikhilmalkari18)
 
