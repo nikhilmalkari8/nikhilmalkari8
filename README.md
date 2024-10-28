@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Nikhil Malkari</h1>
-<h3 align="center">Data Scientist / Machine Learning Engineer</h3>
+<h3 align="center">Machine Learning Engineer / Data Scientist</h3>
 
 - 👨‍💻 All of my projects are available at [nikhilmalkari8.github.io](nikhilmalkari8.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@nikhilmalkari18](https://medium.com/@nikhilmalkari18)
 
-- 📫 How to reach me **nikhilmalkari6@gmail.com**
+- 📫 How to reach me **nikhilmalkari2310@gmail.com**
 
 - 📄 Know about my experiences [https://nikhilmalkari_resume.tiiny.site](https://nikhilmalkari_resume.tiiny.site)
 
